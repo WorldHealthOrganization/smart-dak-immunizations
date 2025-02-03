@@ -18,8 +18,8 @@
       <dc:creator>WHO</dc:creator>
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
-      <pubDate>Fri, 31 Jan 2025 02:16:07 +0000</pubDate>
-      <fhir:details>Publication run at 31/01/2025 by 3d05eac87e19 using vVersion 1.8.10 (Git# dc36d776e982). Built 2025-01-30T20:00:09.932Z (18 hours old) source id Unknown (todo) Run #3</fhir:details>
+      <pubDate>Mon, 03 Feb 2025 11:15:56 +0000</pubDate>
+      <fhir:details>Publication run at 03/02/2025 by 5bab50a6419f using vVersion 1.8.10 (Git# dc36d776e982). Built 2025-01-30T20:00:09.932Z (3 days old) source id Unknown (todo) Run #3</fhir:details>
     </item>
     <item>
       <title>Trust version 1.1.5</title>
